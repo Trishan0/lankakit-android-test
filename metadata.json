@@ -1,0 +1,6 @@
+{
+  "name": "LankaKit",
+  "description": "The ultimate compilation of 10 localized tools and utilities crafted exclusively for Sri Lankan everyday life, including currency trackers, fuel estimators, AI translator and status generators, bill splitters, and traditional auspicious time guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
